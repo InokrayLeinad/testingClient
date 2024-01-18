@@ -8,4 +8,8 @@ public class ServiceMock {
     public String getHello() {
         return "Hello";
     }
+
+    public String maxim() {
+        //TODO:: Dance
+    }
 }
