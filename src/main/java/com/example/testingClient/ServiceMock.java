@@ -8,4 +8,9 @@ public class ServiceMock {
     public String getHello() {
         return "Hello";
     }
+
+    public String mockMethod() {
+        //TODO:: Dance
+        return "String";
+    }
 }
